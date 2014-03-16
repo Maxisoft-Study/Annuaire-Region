@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="gui-schema.svg"
+   inkscape:export-filename="C:\Users\I5\Dropbox\projectMOP\gui-schema.png"
+   inkscape:export-xdpi="604.72528"
+   inkscape:export-ydpi="604.72528">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="230.67805"
+     inkscape:cy="454.79175"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3841" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ececec;stroke:#000000;stroke-width:2.00011754;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2987"
+       width="548.99988"
+       height="498.99985"
+       x="101.00006"
+       y="46.362259" />
+    <text
+       xml:space="preserve"
+       style="font-size:22.50267029px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="346.10229"
+       y="69.764709"
+       id="text2989"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99050865,1.0095823)"><tspan
+         sodipodi:role="line"
+         id="tspan2991"
+         x="346.10229"
+         y="69.764709">Frame</tspan></text>
+    <rect
+       style="fill:#ffccaa;stroke:#000000;stroke-width:1.01409292;stroke-opacity:1"
+       id="rect3777"
+       width="528.9859"
+       height="16.342567"
+       x="111.00705"
+       y="78.680618" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.90954208px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="350.91321"
+       y="90.771744"
+       id="text3779"
+       sodipodi:linespacing="125%"
+       transform="scale(0.98875264,1.0113753)"><tspan
+         sodipodi:role="line"
+         id="tspan3781"
+         x="350.91321"
+         y="90.771744">MenuBar</tspan></text>
+    <rect
+       style="fill:#afdde9;stroke:#000000;stroke-width:1.03309309;stroke-opacity:1"
+       id="rect3783"
+       width="528.96692"
+       height="438.96692"
+       x="111.01655"
+       y="99.378738" />
+    <text
+       xml:space="preserve"
+       style="font-size:20.56289101px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="246.46088"
+       y="122.76379"
+       id="text3785"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99999721,1.0000028)"><tspan
+         sodipodi:role="line"
+         id="tspan3787"
+         x="246.46088"
+         y="122.76379">Panel - FlowLayout - Border</tspan><tspan
+         sodipodi:role="line"
+         x="246.46088"
+         y="148.46739"
+         id="tspan3789" /></text>
+    <rect
+       style="fill:#c6afe9;stroke:#000000;stroke-width:0.99747801;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3795"
+       width="499.00253"
+       height="23.002522"
+       x="125.99874"
+       y="132.86092" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.63454819px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="260.30496"
+       y="150.21793"
+       id="text3797"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3799"
+         x="260.30496"
+         y="150.21793">Barre de recherche  - TextField</tspan></text>
+    <rect
+       style="fill:#c6e9af;stroke:#000000;stroke-width:1.00194395;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3801"
+       width="498.99808"
+       height="358.99805"
+       x="125.50097"
+       y="166.86316" />
+    <text
+       xml:space="preserve"
+       style="font-size:21.46047974px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="233.97699"
+       y="189.63925"
+       id="text3803"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3805"
+         x="233.97699"
+         y="189.63925">Panel - HorizontalFlowLayout</tspan></text>
+    <rect
+       style="fill:#ffeeaa;stroke:#000000;stroke-width:1.02216399;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3807"
+       width="230.97783"
+       height="318.97784"
+       x="135.51109"
+       y="198.87323" />
+    <rect
+       y="198.87323"
+       x="383.51108"
+       height="318.97784"
+       width="230.97783"
+       id="rect3811"
+       style="fill:#de8787;stroke:#000000;stroke-width:1.02216399;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:20.44102859px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="190.69289"
+       y="222.31653"
+       id="text3813"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99652115,1.003491)"><tspan
+         sodipodi:role="line"
+         id="tspan3815"
+         x="190.69289"
+         y="222.31653">LayeredPane</tspan></text>
+    <rect
+       style="fill:#88aa00;stroke:#000000;stroke-width:0.83112198;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3817"
+       width="179.16888"
+       height="199.16888"
+       x="150.41556"
+       y="234.77774" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.29027557px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="157.66515"
+       y="308.61017"
+       id="text3819"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3821"
+         x="157.66515"
+         y="308.61017">carte  - Component</tspan></text>
+    <rect
+       y="322.75861"
+       x="170.39642"
+       height="181.20715"
+       width="179.20715"
+       id="rect3823"
+       style="opacity:0.83720931;fill:#ff9955;stroke:#000000;stroke-width:0.79284465;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3829"
+       y="416.04019"
+       x="172.52972"
+       style="font-size:19.29027557px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="416.04019"
+         x="172.52972"
+         id="tspan3831"
+         sodipodi:role="line">points  - Component</tspan></text>
+    <text
+       transform="scale(0.99652115,1.003491)"
+       sodipodi:linespacing="125%"
+       id="text3837"
+       y="222.31653"
+       x="442.34332"
+       style="font-size:20.44102859px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="222.31653"
+         x="442.34332"
+         id="tspan3839"
+         sodipodi:role="line">TabbedPane</tspan></text>
+    <image
+       y="516.93573"
+       x="461.87711"
+       id="image3851"
+       xlink:href="data:image/png;base64,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
+"
+       height="106.28761"
+       width="74.245781"
+       style="fill:#37c770" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:1.08029747;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4016"
+       width="637.37939"
+       height="372.77686"
+       x="60.54015"
+       y="624.04517" />
+    <rect
+       style="opacity:0.83720931;fill:#80b3ff;stroke:#000000;stroke-width:1.12037373;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3854"
+       width="252.41776"
+       height="339.29089"
+       x="412.50543"
+       y="644.71674" />
+    <text
+       xml:space="preserve"
+       style="font-size:26.71674919px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="446.96027"
+       y="675.05646"
+       id="text3858"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3860"
+         x="446.96027"
+         y="675.05646">WebScrollPane</tspan></text>
+    <rect
+       style="fill:#ff7f2a;stroke:#000000;stroke-width:0.97222871;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3862"
+       width="224.28163"
+       height="277.8197"
+       x="427.94159"
+       y="683.02844" />
+    <text
+       xml:space="preserve"
+       style="font-size:20.36539841px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="450.34705"
+       y="700.00232"
+       id="text3864"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99045391,1.0096381)"><tspan
+         sodipodi:role="line"
+         id="tspan3866"
+         x="450.34705"
+         y="700.00232">Resultats Recherche</tspan></text>
+    <rect
+       style="fill:#e5ff80;stroke:#000000;stroke-width:1.26390433;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3868"
+       width="192.67522"
+       height="37.74905"
+       x="443.74518"
+       y="727.00159" />
+    <text
+       xml:space="preserve"
+       style="font-size:32.00552368px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="501.24756"
+       y="757.14368"
+       id="text3870"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3872"
+         x="501.24756"
+         y="757.14368">Node</tspan></text>
+    <rect
+       y="807.00159"
+       x="443.74481"
+       height="37.74905"
+       width="192.67522"
+       id="rect3874"
+       style="fill:#e5ff80;stroke:#000000;stroke-width:1.26390433;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3876"
+       y="837.14368"
+       x="501.24756"
+       style="font-size:32.00552368px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="837.14368"
+         x="501.24756"
+         id="tspan3878"
+         sodipodi:role="line">Node</tspan></text>
+    <rect
+       style="fill:#e5ff80;stroke:#000000;stroke-width:1.26390433;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3880"
+       width="192.67522"
+       height="37.74905"
+       x="443.74481"
+       y="887.00159" />
+    <text
+       xml:space="preserve"
+       style="font-size:32.00552368px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="501.24756"
+       y="917.14368"
+       id="text3882"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3884"
+         x="501.24756"
+         y="917.14368">Node</tspan></text>
+    <rect
+       y="644.71674"
+       x="92.505417"
+       height="339.29089"
+       width="252.41776"
+       id="rect3886"
+       style="opacity:0.83720931;fill:#80b3ff;stroke:#000000;stroke-width:1.12037373;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:26.71674919px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="126.96025"
+       y="675.05646"
+       id="text3858-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3860-2"
+         x="126.96025"
+         y="675.05646">WebScrollPane</tspan></text>
+    <rect
+       y="682.01831"
+       x="106.57348"
+       height="277.8197"
+       width="224.28163"
+       id="rect3909"
+       style="fill:#ff7f2a;stroke:#000000;stroke-width:0.97222871;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:30.28084183px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="181.08502"
+       y="847.95978"
+       id="text4061"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4063"
+         x="181.08502"
+         y="847.95978">Table</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.78477859px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="521.94159"
+       y="722.68848"
+       id="text4065"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4067"
+         x="521.94159"
+         y="722.68848">Tree</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:31.2013073px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="154.78818"
+       y="725.18683"
+       id="text4069"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="154.78818"
+         y="725.18683"
+         id="tspan4073">Propriété</tspan></text>
+  </g>
+</svg>

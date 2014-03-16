@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Package-Title: Projet MOP
+Product-Name: Region
+Main-Class: maxime.Launcher
+
